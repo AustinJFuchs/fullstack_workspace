@@ -1,5 +1,5 @@
 .jumbotron {
-	background-image: url("graphics/tuscany.JPG");
+	background-image: url("graphics/tuscany.jpg");
 	background-size: cover;
 	background-position: center center;
 	padding-top: 0px;
@@ -19,4 +19,9 @@
 .readable {
 	color: white !important;
 	text-shadow: 2px 2px black;
+}
+
+.btn {
+	padding-left: 6px;
+	padding-right: 6px;
 }
